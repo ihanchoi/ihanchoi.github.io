@@ -1,0 +1,24 @@
+## _site
+## .sass-cache
+## .jekyll-cache
+## .jekyll-metadata
+## vendor
+
+
+## MacOS
+*.DS_Store
+.bundle
+.sass-cache
+node_modules
+package.json
+
+## Jekyll stuff
+/_site/
+_site/
+.sass-cache/
+.jekyll-metadata
+.jekyll
+Gemfile
+Gemfile.lock
+
+
