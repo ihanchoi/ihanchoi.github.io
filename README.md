@@ -1,9 +1,13 @@
 # Records	
 
-Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+1. Apply jekyll theme
+2. Install admin plugins
+3. Install jemoji:boom:
+  - [List of github markdown jemoji](https://gist.github.com/rxaviers/7360908)
+  - [Install jemoji](https://github.com/jekyll/jemoji)
 
+![little and cute photo](https://www.fujitv.com/wp-content/uploads/2022/07/f5ad77542271142618352b7cd44162de.jpg)
 ![Lanyon](https://f.cloud.github.com/assets/98681/1825266/be03f014-71b0-11e3-9539-876e61530e24.png)
-![Lanyon with open sidebar](https://f.cloud.github.com/assets/98681/1825267/be04a914-71b0-11e3-966f-8afe9894c729.png)
 
 
 ## Contents
